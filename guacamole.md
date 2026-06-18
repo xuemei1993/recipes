@@ -10,4 +10,7 @@ avocado
 ## instructions
 
 * chop the avocado
-* sprinkle with salt 
+
+* sprinkle with salt =
+* juice the lime
+
