@@ -1,4 +1,5 @@
 
+
 # guacamole
 avocado 
 ## ingredients
@@ -9,3 +10,4 @@ avocado
 ## instructions
 
 * chop the avocado
+* sprinkle with salt 
