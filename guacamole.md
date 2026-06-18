@@ -2,9 +2,10 @@
 # guacamole
 avocado 
 ## ingredients
-*avocado
-*lime 
-*salt
+* avocado
+* lime 
+* salt
 
 ## instructions
 
+* chop the avocado
