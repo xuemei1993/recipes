@@ -9,3 +9,4 @@ avocado
 ## instructions
 
 * chop the avocado
+* juice the lime
